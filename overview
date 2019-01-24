@@ -1,0 +1,3 @@
+This is my attempt at a 16 x 16 version of Conway's Game of Life - using Elixir and Scenic.
+
+Whilst I am satisfied with the end result, I'm not proud that it took nearly 4000 lines and some pretty jammy stuff...
